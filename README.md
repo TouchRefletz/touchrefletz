@@ -1,16 +1,7 @@
 # Seja bem vindo ao meu perfil 👋
 
 <h2>Sobre mim</h2>
-<p>Meu nome é Willian Campos Costa, mais conhecido na internet como ToqueReflexo, tenho 14 anos, e tenho o objetivo de ser programador futuramente. Atualmente estou estudando tanto programação quanto na escola para tal ato ser concretizado. Eu gosto muito de jogos, criação de conteúdo, programação (obviamente), entre outros assuntos.</p>
-
-<h2>Linguagens</h2>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='40' height='40'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width='40' height='40'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='40' height='40' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width='40' height='40'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width='40' height='40'/>       
-</div>
+<p>Meu nome é Willian Campos Costa, mais conhecido na internet como ToqueReflexo, tenho 15 anos, e tenho o objetivo de ser programador futuramente. Atualmente estou estudando tanto programação quanto na escola para tal ato ser concretizado. Eu gosto muito de jogos, criação de conteúdo, programação (obviamente), entre outros assuntos.</p>
           
 <h2>Redes Sociais</h2>
 <div>
